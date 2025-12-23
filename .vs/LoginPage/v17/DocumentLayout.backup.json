@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Vishal Chinchane All\\LoginPage\\",
+  "WorkspaceRootPath": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal chinchane all\\loginpage\\loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|e:\\vishal csharp\\clone login\\loginpage\\loginpage\\migrations\\20250304100421_loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA12C77D-C46E-42DE-9DB2-636CF73B9B29}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\migrations\\20250304100421_loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +54,73 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LoginPage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginPage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T07:55:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250304100421_LoginPage.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Migrations\\20250304100421_LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Migrations\\20250304100421_LoginPage.cs",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Migrations\\20250304100421_LoginPage.cs",
+              "RelativeToolTip": "LoginPage\\Migrations\\20250304100421_LoginPage.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:04:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginPage\\appsettings.json",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\appsettings.json",
+              "RelativeToolTip": "LoginPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T06:06:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginPage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-04T02:19:28.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "LoginPage\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "LoginPage\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T02:19:23.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T02:19:23.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "LoginPage\\Views\\User\\Login.cshtml",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Views\\User\\Login.cshtml",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "LoginPage\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -81,55 +129,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Controllers\\UserController.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LoginPage\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Controllers\\UserController.cs",
               "RelativeToolTip": "LoginPage\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T02:09:21.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Models\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "LoginPage\\Models\\Entity\\User.cs",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Models\\Entity\\User.cs",
-              "RelativeToolTip": "LoginPage\\Models\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T02:04:40.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "LoginPage\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "LoginPage\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Models\\Entity\\User.cs",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "LoginPage\\Models\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T02:02:47.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T02:04:40.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Program.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Program.cs",
               "RelativeDocumentMoniker": "LoginPage\\Program.cs",
-              "ToolTip": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\Program.cs",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Program.cs",
               "RelativeToolTip": "LoginPage\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:58:10.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T01:58:10.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LoginPage\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:02:47.244Z"
             }
           ]
         }

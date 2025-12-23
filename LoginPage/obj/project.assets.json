@@ -4015,23 +4015,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Users\\jagu1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\LoginPage.csproj",
+      "projectUniqueName": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\LoginPage.csproj",
       "projectName": "LoginPage",
-      "projectPath": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\LoginPage.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Vishal Chinchane All\\LoginPage\\LoginPage\\obj\\",
+      "projectPath": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\LoginPage.csproj",
+      "packagesPath": "C:\\Users\\jagu1\\.nuget\\packages\\",
+      "outputPath": "E:\\Vishal CSharp\\Clone Login\\LoginPage\\LoginPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jagu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4058,7 +4058,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4094,7 +4094,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
